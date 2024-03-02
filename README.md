@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/j38gfrntw4g2f4rl?svg=true)](https://ci.appveyor.com/project/IlyaDyakonov/promises)
+
+
 # Домашнее задание к лекции «Promises, async/await»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
